@@ -4,7 +4,7 @@ class NavBar extends Component {
   render() {
     return (
       <div>
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar navbar-expand-lg" style={{backgroundColor: 'transparent'}}>
           <button
             className="navbar-toggler"
             type="button"
@@ -24,7 +24,7 @@ class NavBar extends Component {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#experience">
+                <a className="nav-link" href="#experience" >
                   Experience
                 </a>
               </li>
