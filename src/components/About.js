@@ -7,15 +7,22 @@ class About extends Component {
         <div className="col-md-12">
           <div className="card">
             <div className="card-body">
-              <h2>About</h2>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur.
-              </p>
+              <div className="row">
+                <div className="col-md-12">
+                <h2>About</h2>
+                  <p>
+                    Hello, I'm Laura. I started teaching myself JavaScript in
+                    October 2016, having previously spent a bit of time
+                    tinkering with HTML. I soon realised I was a fan of all
+                    things code and decided to fully commit by doing 
+                    <a href="https://northcoders.com/" rel="noopener noreferrer" style={{textDecoration: 'none', color: 'black'}} target="_blank"> Northcoders</a>, a full stack coding bootcamp, in 2017. I love that I have found a career
+                    that keeps me curious and allows me to continuously learn
+                    new things everyday. When I'm not improving the web one
+                    pixel at a time, I like to travel, climb mountains, perform
+                    Improv comedy and attempt to play the drums.
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
         </div>
