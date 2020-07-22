@@ -11,7 +11,7 @@
     "react": "^16.4.2",
     "react-card-flip": "^0.2.1",
     "react-dom": "^16.4.2",
-    "react-player": "^1.6.4",
+    "react-player": "^2.5.0",
     "react-scripts": "1.1.5"
   },
   "scripts": {
